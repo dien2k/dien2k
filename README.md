@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/QB_2DlTUu5IAAAAM/mybc.gif" width="50%" height=""50%" alt="cover" />
+<img src="https://media.tenor.com/QB_2DlTUu5IAAAAM/mybc.gif" alt="cover" />
 </div>
 
 # Hi there, I'm developer frontend from Vietnam 🇻🇳 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
